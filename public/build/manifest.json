@@ -1,0 +1,29 @@
+{
+  "public/fonts/plus-jakarta-sans-400.ttf": {
+    "file": "assets/plus-jakarta-sans-400-udOW8rRD.ttf",
+    "src": "public/fonts/plus-jakarta-sans-400.ttf"
+  },
+  "public/fonts/plus-jakarta-sans-500.ttf": {
+    "file": "assets/plus-jakarta-sans-500-qyw_9g6K.ttf",
+    "src": "public/fonts/plus-jakarta-sans-500.ttf"
+  },
+  "public/fonts/plus-jakarta-sans-600.ttf": {
+    "file": "assets/plus-jakarta-sans-600-QNVXA91K.ttf",
+    "src": "public/fonts/plus-jakarta-sans-600.ttf"
+  },
+  "public/fonts/plus-jakarta-sans-700.ttf": {
+    "file": "assets/plus-jakarta-sans-700-Bt8SGVSa.ttf",
+    "src": "public/fonts/plus-jakarta-sans-700.ttf"
+  },
+  "resources/css/app.css": {
+    "file": "assets/app-GE2h-48Q.css",
+    "src": "resources/css/app.css",
+    "isEntry": true
+  },
+  "resources/js/app.js": {
+    "file": "assets/app-Bf4POITK.js",
+    "name": "app",
+    "src": "resources/js/app.js",
+    "isEntry": true
+  }
+}
